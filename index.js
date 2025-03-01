@@ -19,8 +19,8 @@ app .get('/login',(req,res)=>{
 })
 
 //************************************************************************ */
-//when you add a new thing thing here
-//don't forget to rerun the server else you will not see the changes
+//when you add a new thing here
+//don't forget to re-run the server else you will not see the changes
 //************************************************************************ */
 
 app.get('/twitter',(req,res)=>{
